@@ -9,8 +9,8 @@
 - [LinkedIn](https://www.linkedin.com/in/vynguyen2309/)
 
 ## 🎡Learning & growth
-- I’m currently learning Full-Stack Web Development and studying for professional certificates to improve my skills.
-- I have experience working on data preprocessing and data visualization.
+- I’m currently learning **Full-Stack Web Development** and studying for professional certificates to improve my skills.
+- I have experience working on **data preprocessing** and **data visualization**.
 - I am actively looking to join a **software engineering program** or internship.
 
 ## 👻Life & hobbies
