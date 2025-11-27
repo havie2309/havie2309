@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="Hi there header">
+  <style>
+    .mono { font-family: "Courier New", Courier, monospace; font-weight: 700; }
+    .pink { fill: #ff82b8; } /* pink color */
+    .shadow { fill: rgba(0,0,0,0.06); }
+  </style>
+
+  <!-- subtle shadow copy -->
+  <text x="10" y="58" class="mono shadow" font-size="48">Hi there ✨,</text>
+  <text x="10" y="116" class="mono shadow" font-size="48">I'm havie!</text>
+
+  <!-- main pink text -->
+  <text x="10" y="60" class="mono pink" font-size="48">Hi there ✨,</text>
+  <text x="10" y="118" class="mono pink" font-size="48">I'm havie!</text>
+
+  <!-- horizontal rule -->
+  <line x1="0" y1="140" x2="1000" y2="140" stroke="#e6e6e6" stroke-width="2"/>
+</svg>
