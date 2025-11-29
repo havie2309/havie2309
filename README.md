@@ -2,16 +2,16 @@
 ![Header](./assets/header.svg)
 
 ## ✨ About me
-- 🎏 I'm a **Computer Science** student at **Grinnell College** pursuing a concentration in **Statistics**.
+- 🎏 I'm a Computer Science student at Grinnell College pursuing a concentration in Statistics.
 
 ## 🎡Learning & growth
-- I’m currently learning **Full-Stack Web Development** and studying for professional certificates to improve my skills.
-- I have experience working on **data preprocessing** and **data visualization**.
-- I am actively looking to join a **software engineering program** or internship.
+- I’m currently learning Full-Stack Web Development and studying for professional certificates to improve my skills.
+- I have experience working on data preprocessing and data visualization.
+- I am actively looking to join a software engineering program or internship.
 
 ## 👻Life & hobbies
 - I love drawing, watching movies, and I can never say no to chicken wings! 🍗
-- ✈️ **Status update:** I will be returning to **Vietnam** for the winter break.
+- ✈️ Status update: I will be returning to Vietnam for the winter break.
 
 ## 🪄Connect me
 - [Email](havienguyen2007@gmail.com)
