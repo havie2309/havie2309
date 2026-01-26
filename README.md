@@ -9,10 +9,6 @@
 - I have experience working on data preprocessing and data visualization.
 - I am actively looking to join a software engineering program or internship.
 
-## 👻Life & hobbies
-- I love drawing, watching movies, and I can never say no to chicken wings! 🍗
-- ✈️ Status update: I will be returning to Vietnam for the winter break.
-
 ## 🪄Connect me
 - [Email](havienguyen2007@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/vynguyen2309/)
