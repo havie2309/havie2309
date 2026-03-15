@@ -13,6 +13,8 @@
 - [Email](havienguyen2007@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/vynguyen2309/)
 
-  
+## 💻 Languages & Skills
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=havie2309&theme=dark&layout=compact&hide_border=true)
+
 
 
