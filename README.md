@@ -5,9 +5,10 @@
 - 🎏 I'm a Computer Science student at Grinnell College pursuing a concentration in Statistics.
 
 ## 🎡Learning & growth
-- I’m currently learning Full-Stack Web Development and studying for professional certificates to improve my skills.
-- I have experience working on data preprocessing and data visualization.
-- I am actively looking to join a software engineering program or internship.
+- I’m passionate about software engineering and enjoy building full-stack applications and AI-powered projects
+- Currently exploring system design, scalable architectures, and real-world problem solving through code
+- Always learning, building, and experimenting with new technologies
+- Actively looking for software engineering internships and opportunities to grow
 
 ## 🪄Connect me
 - [Email](havienguyen2007@gmail.com)
