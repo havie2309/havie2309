@@ -11,8 +11,8 @@
 - Actively looking for software engineering internships and opportunities to grow
 
 ## 🚀 Experience & Programs
-- 💻 SEO Tech Developer FYA — strengthening Python fundamentals, algorithms, and building projects with PyGame  
-- 🧠 CodePath (Technical Interview Prep & AI) — learning data structures, interview strategies in Python, and applying AI in software development  
+- 💻 SEO Tech Developer FYA - strengthening Python fundamentals, algorithms, and building projects with PyGame  
+- 🧠 CodePath (Technical Interview Prep & AI) - learning data structures, interview strategies in Python, and applying AI in software development  
 
 ## 🪄Connect me
 - [Email](havienguyen2007@gmail.com)
