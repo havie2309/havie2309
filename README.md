@@ -12,7 +12,7 @@
 
 ## 🚀 Experience & Programs
 - 💻 SEO Tech Developer FYA - strengthening Python fundamentals, algorithms, and building projects with PyGame  
-- 🧠 CodePath (Technical Interview Prep & AI) - learning data structures, interview strategies in Python, and applying AI in software development  
+- 🧠 Develop for Good - redesigning website for non-profit org (AVELA)
 
 ## 🪄Connect me
 - [Email](havienguyen2007@gmail.com)
